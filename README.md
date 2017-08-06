@@ -10,3 +10,5 @@ Scripts que fazem backup, geram log e enviam paro o seu email.
 * Setar os dados de email no arquivo send_email
 * Pronto backup com full, diff, restore e envio de log por email
 
+#### Dicas, sugestões de melhorias e erros por favor relatar.
+
