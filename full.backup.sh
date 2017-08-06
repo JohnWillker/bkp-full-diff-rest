@@ -1,8 +1,6 @@
 #!/bin/bash
 echo "Programa de backup full"
-#Autor: Jhoni Vieceli
-#Programa de criação de backup full
-#DATA: 04/02/2008
+
 echo " "
 
 dadosfull() {

@@ -1,4 +1,6 @@
 # m     h       dom     mon     dow     command
+#Backup completo será feito todo sábado as 20:00
 0    20       *       *       6       bash /backup/full.backup
-3   30     19      *       *       1-6    bash /backup/diferencial.backup
+#Backup diferencial será feito de segunda a sexta ás 20:30
+3   30     20      *       *       1-6    bash /backup/diferencial.backup
 ~
