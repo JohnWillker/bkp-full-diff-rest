@@ -1,0 +1,4 @@
+# m     h       dom     mon     dow     command
+0    20       *       *       6       bash /backup/full.backup
+3   30     19      *       *       1-6    bash /backup/diferencial.backup
+~
