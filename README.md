@@ -1,4 +1,4 @@
-# bkp-full-diff-rest (### Completo, diferencial, restauração)
+# bkp-full-diff-rest (Completo, diferencial, restauração)
 ## Scripts de Backup Local
 
 Scripts que fazem backup, geram log e enviam paro o seu email.
