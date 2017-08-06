@@ -5,7 +5,7 @@ Scripts que fazem backup, geram log e enviam paro o seu email.
 
 ### Modo de uso:
 
-* Colocar o o conteúdo do arquivo cron no cron do seu sistema.
+* Colocar o o conteúdo do arquivo cron no cron do seu sistema (crontab -e).
 * Adequar os locais das pastas para as suas pastas
 * Setar os dados de email no arquivo send_email
 * Pronto backup com full, diff, restore e envio de log por email
