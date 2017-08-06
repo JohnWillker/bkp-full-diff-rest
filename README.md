@@ -1,7 +1,9 @@
-# bkp-full-diff-rest
-##Scripts de Backup Local
+# bkp-full-diff-rest (Completo, diferencial, restauração)
+## Scripts de Backup Local
 
-###Modo de uso
+Scripts que fazem backup, geram log e enviam paro o seu email.
+
+### Modo de uso
 
 * Colocar o o conteúdo do arquivo cron no cron do seu sistema.
 * Adequar os locais das pastas para as suas pastas
